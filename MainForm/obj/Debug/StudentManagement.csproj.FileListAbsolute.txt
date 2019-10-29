@@ -1,0 +1,38 @@
+C:\Users\hussa\Desktop\StudentManagement\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\hussa\Desktop\StudentManagement\MainForm\bin\Debug\MainForm.exe
+C:\Users\hussa\Desktop\StudentManagement\MainForm\bin\Debug\MainForm.pdb
+C:\Users\hussa\Desktop\StudentManagement\MainForm\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+C:\Users\hussa\Desktop\StudentManagement\MainForm\obj\Debug\MainForm.MainForm.resources
+C:\Users\hussa\Desktop\StudentManagement\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\hussa\Desktop\StudentManagement\MainForm\obj\Debug\StudentManagement.csproj.GenerateResource.Cache
+C:\Users\hussa\Desktop\StudentManagement\MainForm\obj\Debug\MainForm.exe
+C:\Users\hussa\Desktop\StudentManagement\MainForm\obj\Debug\MainForm.pdb
+C:\Users\hussa\Desktop\StudentManagement\MainForm\obj\Debug\MainForm.SecondForm.resources
+C:\Users\hussa\Desktop\StudentManagement\MainForm\obj\Debug\MainForm.Delete.resources
+C:\Users\hussa\Desktop\StudentManagement\MainForm\obj\Debug\MainForm.Search.resources
+F:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\bin\Debug\MainForm.exe.config
+F:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.exe
+F:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.pdb
+F:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+F:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.Delete.resources
+F:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.MainForm.resources
+F:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+F:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.Search.resources
+F:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.SecondForm.resources
+F:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\StudentManagement.csproj.GenerateResource.Cache
+F:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\bin\Debug\MainForm.exe
+F:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\bin\Debug\MainForm.pdb
+F:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.frmDisplay.resources
+D:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\bin\Debug\MainForm.exe.config
+D:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.exe
+D:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.pdb
+D:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\bin\Debug\MainForm.exe
+D:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\bin\Debug\MainForm.pdb
+D:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+D:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.Delete.resources
+D:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.frmDisplay.resources
+D:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.MainForm.resources
+D:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.Search.resources
+D:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\MainForm.SecondForm.resources
+D:\UNIVERSITY\Semester 3\Data Structure\Lab\Project\StudentManagement\MainForm\obj\Debug\StudentManagement.csproj.GenerateResource.Cache
